@@ -33,7 +33,7 @@ void setup()
   pinMode(LowFreq, OUTPUT);
   pinMode(HighFreq, OUTPUT);
 }
-
+// This is something edited after initial repository creation
 
 //  Where the Magic Happens
 void loop()
